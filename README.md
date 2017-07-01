@@ -20,3 +20,4 @@ After that, setting up database config in `.env` file and then run migrate comma
 ```sh
 $ php artisan migrate
 ```
+You're ready to go! :)
