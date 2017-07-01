@@ -37,3 +37,5 @@
 	</tbody>
 
 </table>
+
+{{ $tasks->links('layouts.pagination') }}

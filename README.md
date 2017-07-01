@@ -4,8 +4,9 @@ This sample project is based on [Basic Task List Tutorial](https://laravel.com/d
 - the Eloquent ORM for basic CRUD, 
 - routing using HTTP verb,
 - controller
-- input validation, and 
-- views using Blade templates.
+- input validation,
+- views using Blade templates, and
+- pagination.
 
 This project sample basic selection of Laravel features through simple task list application which we can use to track all of the tasks we want to accomplish. This typical "to-do list" example demonstrates how to do simple CRUD using Laravel.
 
