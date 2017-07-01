@@ -10,9 +10,11 @@ This sample project is based on [Basic Task List Tutorial](https://laravel.com/d
 
 This project sample basic selection of Laravel features through simple task list application which we can use to track all of the tasks we want to accomplish. This typical "to-do list" example demonstrates how to do simple CRUD using Laravel.
 
-<kbd>
-    <img alt="Preview" src="https://preview.ibb.co/hLDMDQ/Fire_Shot_Capture_3_Sample_Laravel_Basic_Task_List_http_sample_laravel_basic_task_list_dev.png" />
-</kbd>
+<div style="text-align: center">
+	<kbd>
+	    <img alt="Preview" src="https://preview.ibb.co/hLDMDQ/Fire_Shot_Capture_3_Sample_Laravel_Basic_Task_List_http_sample_laravel_basic_task_list_dev.png" />
+	</kbd>
+</div>
 
 ## Quick Installation
 First, clone repo and install all dependencies.
