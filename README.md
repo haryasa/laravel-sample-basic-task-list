@@ -3,7 +3,8 @@ This sample project is based on [Basic Task List Tutorial](https://laravel.com/d
 - database migrations, 
 - the Eloquent ORM for basic CRUD, 
 - routing using HTTP verb,
-- controller
+- controller,
+- dependency injection,
 - input validation,
 - views using Blade templates, and
 - pagination.
