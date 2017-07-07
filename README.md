@@ -30,3 +30,6 @@ You're ready to go! :)
 
 ## Other Laravel Sample
 Check out also [Laravel Sample - Intermediate Task List](https://github.com/haryasa/laravel-sample-intermediate-task-list) repository for an intermediate introduction to the Laravel framework.
+
+## To Do
+- Reduce the concepts used to make this sample simpler.
